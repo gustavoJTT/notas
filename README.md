@@ -127,6 +127,9 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 | RF-19 | Gerenciar Contas de Usuários | Permitir ao moderador excluir ou suspender contas de usuários. | Média |
 | RF-20 | Gerenciar Comentários | Permitir ao moderador excluir comentários denunciados por usuários. | Baixa |
 | RF-21 | Curtir Comentários | Permitir que o usuário possa favoritar produções. | Baixa |
+| RF-22 | Buscar Produtores Próximos | Visitantes e usuários podem buscar Produtores proximos de sua localização | Baixa |
+| RF-23 | Buscar por Festivais | Visitantes e usuários podem buscar por Festivais. | Baixa |
+| RF-24 | Visualizar Detalhes de Festival | Visitantes e usuários podem acessar detalhes sobre festivais divulgados. | Baixa |
 
 ## 9. Requisitos Não-Funcionais
 

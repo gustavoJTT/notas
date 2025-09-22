@@ -9,6 +9,9 @@
 | RF-09    | Seguir Produtores           | Permitir que usuários possam seguir o perfil de seus produtores favoritos. | Média        |
 | RF-10    | Sistema de Notificações     | Notificar usuários sobre interações relevantes (novas obras de quem segue, respostas, etc.). | Média        |
 | RF-15    | Gerenciar Produções Próprias| Permitir que o produtor possa editar ou excluir suas próprias obras já publicadas. | Alta |
+| RF-22 | Buscar Produtores Próximos | Visitantes e usuários podem buscar Produtores proximos de sua localização | Baixa |
+| RF-23 | Buscar por Festivais | Visitantes e usuários podem buscar por Festivais. | Baixa |
+| RF-24 | Visualizar Detalhes de Festival | Visitantes e usuários podem acessar detalhes sobre festivais divulgados. | Baixa |
 | RNF-04   | Desempenho                  | O tempo de carregamento das páginas principais não deve exceder 3 segundos em uma conexão padrão. | Obrigatório  |
 | RNF-05   | Privacidade de Dados (LGPD) | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados, garantindo o tratamento transparente e seguro dos dados. | Obrigatório  |
 | RNF-06   | Backup e Recuperação        | Devem existir rotinas de backup automático para garantir a recuperação de dados em caso de falha crítica. | Obrigatório  |
