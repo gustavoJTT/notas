@@ -73,7 +73,7 @@ Produtores de conteúdo audiovisual independente frequentemente enfrentam barrei
 
 ### **Objetivo da Plataforma: Conexão e Crescimento Colaborativo**
 
-O objetivo central da plataforma é estabelecer um ecossistema digital que una esses criadores de conteúdo. O sistema foi projetado para ser um ponto de encontro onde os produtores possam exibir seus trabalhos, receber avaliações do público, compartilhar opiniões e formar uma comunidade colaborativa e engajada, que se apoia mutuamente.
+O objetivo central da plataforma é estabelecer um ecossistema digital que una esses criadores de conteúdo. O sistema foi projetado para ser um ponto de encontro onde os produtores possam exibir seus trabalhos, receber avaliações do público, compartilhar opiniões<!--compartilhar por meio de comentários --> e formar uma comunidade colaborativa e engajada, que se apoia mutuamente.
 
 ### **Proposta de Valor: Feedback como Ferramenta de Evolução**
 
@@ -111,7 +111,7 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 | RF-03 | Editar Perfil | Permitir que o usuário possa editar suas informações no perfil. | Média |
 | RF-04 | Visualizar Detalhes | Visitantes e usuários podem acessar detalhes sobre as obras publicadas. | Alta |
 | RF-05 | Busca por Palavra-Chave | Implementar uma barra de busca para procurar obras por título, produtor, gênero ou tags. | Alta |
-| RF-06 | Filtrar e Ordenar Produções | PPermitir que o usuário possa filtrar as obras por múltiplos critérios (gênero, região, data de publicação) e ordená-las (mais recentes, mais bem avaliadas). | Baixa |
+| RF-06 | Filtrar e Ordenar Produções | Permitir que o usuário possa filtrar as obras por múltiplos critérios (gênero, região, data de publicação) e ordená-las (mais recentes, mais bem avaliadas). | Baixa |
 | RF-07 | Acessar Link de Produção | Permitir o acesso ao link da produção quando disponibilizado pelo produtor. | Média |
 | RF-08 | Comentar e/ou Avaliar Produções | Usuários cadastrados podem comentar e/ou avaliar produções publicadas. | Alta |
 | RF-09 | Seguir Produtores | Permitir que usuários possam seguir o perfil de seus produtores favoritos. | Média |
