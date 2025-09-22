@@ -106,10 +106,10 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 
 | Código | Nome | Descrição | Prioridade |
 | :---: | :---: | :---: | :---: |
-| RF-01 | Cadastrar Usuário | Permitir cadastro de novos usuários (Produtores e Consumidores). | Alta |
+| RF-01 | Cadastrar-se | Permitir que o visitante se cadastre como consumidor ou produtor. | Alta |
 | RF-02 | Autenticar-se | Permitir que usuários possam fazer login no sistema. | Alta |
 | RF-03 | Editar Perfil | Permitir que o usuário possa editar suas informações no perfil. | Média |
-| RF-04 | Visualizar Detalhes | Visitantes e usuários podem acessar detalhes sobre as obras publicadas. | Alta |
+| RF-04 | Visualizar Detalhes de produção | Visitantes e usuários podem acessar detalhes sobre as obras publicadas. | Alta |
 | RF-05 | Busca por Palavra-Chave | Implementar uma barra de busca para procurar obras por título, produtor, gênero ou tags. | Alta |
 | RF-06 | Filtrar e Ordenar Produções | Permitir que o usuário possa filtrar as obras por múltiplos critérios (gênero, região, data de publicação) e ordená-las (mais recentes, mais bem avaliadas). | Baixa |
 | RF-07 | Acessar Link de Produção | Permitir o acesso ao link da produção quando disponibilizado pelo produtor. | Média |
@@ -126,6 +126,7 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 | RF-18 | Gerenciar Obras | Permitir ao moderador editar ou excluir obras publicadas na plataforma. | Média |
 | RF-19 | Gerenciar Contas de Usuários | Permitir ao moderador excluir ou suspender contas de usuários. | Média |
 | RF-20 | Gerenciar Comentários | Permitir ao moderador excluir comentários denunciados por usuários. | Baixa |
+| RF-21 | Curtir Comentários | Permitir que o usuário possa favoritar produções. | Baixa |
 
 ## 9. Requisitos Não-Funcionais
 
@@ -134,7 +135,7 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 | RNF-01 | Segurança de Informações | Proteger dados pessoais e documentos enviados, utilizando criptografia, HTTPS e proteção contra ataques. | Obrigatório |
 | RNF-02 | Responsividade | O sistema deve ser totalmente responsivo, garantindo usabilidade adequada em dispositivos móveis, tablets e desktops. | Obrigatório |
 | RNF-03 | Interface Intuitiva | A interface deve ser simples, direta e de fácil compreensão para minimizar a curva de aprendizado. | Obrigatório |
-| RNF-04 | Desempenho | O tempo de carregamento das páginas principais não deve exceder 3 segundos em uma conexão padrão. | Obrigatório |
+| RNF-04 | Desempenho | O tempo de carregamento das páginas principais não deve exceder 10 segundos em uma conexão padrão. | Obrigatório |
 | RNF-05 | Privacidade de Dados (LGPD) | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados, garantindo o tratamento transparente e seguro dos dados. | Obrigatório |
 | RNF-06 | Backup e Recuperação | Devem existir rotinas de backup automático para garantir a recuperação de dados em caso de falha crítica. | Obrigatório |
 | RNF-07 | Escalabilidade | A arquitetura deve permitir crescimento modular sem reescrever a base do sistema. | Desejável |
