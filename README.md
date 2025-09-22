@@ -106,31 +106,22 @@ Os requisitos funcionais foram reorganizados e expandidos para incluir novas fun
 
 | Código | Nome | Descrição | Prioridade |
 | :---: | :---: | :---: | :---: |
-<!-- Gestão de Usuários e Contas -->
 | RF-01 | Cadastrar Usuário | Permitir cadastro de novos usuários (Produtores e Consumidores). | Alta |
 | RF-02 | Autenticar-se | Permitir que usuários possam fazer login no sistema. | Alta |
 | RF-03 | Editar Perfil | Permitir que o usuário possa editar suas informações no perfil. | Média |
-
-<!-- Busca e Descoberta de Conteúdo -->
 | RF-04 | Visualizar Detalhes | Visitantes e usuários podem acessar detalhes sobre as obras publicadas. | Alta |
 | RF-05 | Busca por Palavra-Chave | Implementar uma barra de busca para procurar obras por título, produtor, gênero ou tags. | Alta |
 | RF-06 | Filtrar e Ordenar Produções | PPermitir que o usuário possa filtrar as obras por múltiplos critérios (gênero, região, data de publicação) e ordená-las (mais recentes, mais bem avaliadas). | Baixa |
 | RF-07 | Acessar Link de Produção | Permitir o acesso ao link da produção quando disponibilizado pelo produtor. | Média |
-
-<!-- Interação e Engajamento -->
 | RF-08 | Comentar e/ou Avaliar Produções | Usuários cadastrados podem comentar e/ou avaliar produções publicadas. | Alta |
 | RF-09 | Seguir Produtores | Permitir que usuários possam seguir o perfil de seus produtores favoritos. | Média |
 | RF-10 | Sistema de Notificações | Notificar usuários sobre interações relevantes (novas obras de quem segue, respostas, etc.). | Média |
 | RF-11 | Favoritar Produções | Permitir que o usuário possa favoritar as produções. | Baixa |
 | RF-12 | Visualizar Perfil de Usuário | Permitir a visualização de um perfil público de outros usuários. | Baixa |
 | RF-13 | Denunciar Comentários | Permitir que o usuário possa denunciar comentários. | Baixa |
-
-<!-- Funções do Produtor -->
 | RF-14 | Publicar Produção | Permitir que o produtor publique obras através de um formulário detalhado (título, sinopse, ficha técnica, tags, capa, link, etc.). | Alta |
 | RF-15 | Gerenciar Produções Próprias | Permitir que o produtor possa editar ou excluir suas próprias obras já publicadas. | Alta |
 | RF-16 | Visualização de Métricas | Permitir ao produtor visualizar métricas de suas publicações. | Média |
-
-<!-- Funções de Moderação (Administrativo) -->
 | RF-17 | Gerenciar Cadastro de Produtores | Permitir ao moderador autorizar, ou não, o cadastro de produtores. | Alta |
 | RF-18 | Gerenciar Obras | Permitir ao moderador editar ou excluir obras publicadas na plataforma. | Média |
 | RF-19 | Gerenciar Contas de Usuários | Permitir ao moderador excluir ou suspender contas de usuários. | Média |
