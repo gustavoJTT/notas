@@ -4,7 +4,7 @@
 
 | Data                |  Versão             |          Descrição  |  Autores            |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| 22/09/25 | 1.0 | Revisão | Gustavo Tavares, Clara Lima, Pedro Henrique, Victor Matheus, Isabella Camilli |
+| 22/09/25 | 1.0 | Revisão | Gustavo Tavares, Clara Lima, Pedro Souza, Victor Matheus, Isabella Camilli |
 
 ## 1. Objetivo do projeto
 
@@ -26,7 +26,7 @@ Diferentemente de plataformas de streaming por assinatura como o Mubi ou redes s
 | --- | --- |
 | **Problema** | Carência na divulgação de produções audiovisuais independentes, bem como a falta de acesso a esses conteúdos |
 | **Afeta** | Produtores independentes e pessoas que buscam por esse tipo de conteúdo |
-| **Impacta** | Impacta os produtores quanto à dificuldade de divulgação de suas produções, e impacta os consumidores, que não conseguem consumir um conteúdo fora das grandes mídias |
+| **Impacta** | Impacta os produtores quanto à dificuldade de divulgação de suas produções, e impacta os entusiastas, que não conseguem consumir um conteúdo fora das grandes mídias |
 | **Solução** | Desenvolvimento de uma plataforma para produtores independentes exibirem suas obras, ampliando seu alcance e aquecendo o cinema independente através de interação entre usuários e produtores por meio de avaliações e comentários sobre obras na plataforma |
 
 ## 3. Descrição dos usuários
@@ -34,7 +34,7 @@ Diferentemente de plataformas de streaming por assinatura como o Mubi ou redes s
 | Nome                |  Descrição          |   Responsabilidade  |
 | -----------------   | -----------------   | -----------------   |
 | Visitante | Indivíduo não cadastrado na plataforma | Pesquisa por produções; Visualiza detalhes sobre as produções |
-| Consumidor | Usuário cadastrado na plataforma | Busca por produções publicadas por produtors; Avalia e/ou comenta as produções; Curte e/ou comenta comentários de outros usuários |
+| entusiasta | Usuário cadastrado na plataforma | Busca por produções publicadas por produtors; Avalia e/ou comenta as produções; Curte e/ou comenta comentários de outros usuários |
 | Produtor | Usuário cadastrado na plataforma como produtor | Publica suas obras na plataforma |
 | Moderador | Administrador da plataforma que coordena as produções e cadastros | Administrar comentários e produções; Verificar autenticidade do produtor |
 
@@ -48,9 +48,9 @@ O acesso à plataforma será realizado via web, garantindo compatibilidade com c
 
 Para os produtores, recomenda-se o uso de um computador. Este ambiente oferece a melhor experiência para a publicação de conteúdo, que pode envolver a manipulação de arquivos de imagem, e para o gerenciamento de suas obras, beneficiando-se de uma interface de visualização mais ampla. Após a publicação, os produtores terão acesso a um painel exclusivo com métricas para monitorar o engajamento e a interação do público com seus trabalhos.
 
-### **Perfil Consumidor e Visitante**
+### **Perfil Entusiasta e Visitante**
 
-Os consumidores possuem total flexibilidade para acessar a plataforma do dispositivo que preferirem. Suas principais atividades, como visualizar, comentar e avaliar produções, foram projetadas para se adaptar a diferentes telas.
+Os entusiastas possuem total flexibilidade para acessar a plataforma do dispositivo que preferirem. Suas principais atividades, como visualizar, comentar e avaliar produções, foram projetadas para se adaptar a diferentes telas.
 
 A visualização de informações detalhadas das produções (resumo, elenco, gênero, etc.) é uma funcionalidade aberta a todos, incluindo visitantes. Contudo, o acesso a recursos interativos ( como comentar, avaliar e favoritar) requer a criação de um cadastro.
 
@@ -62,7 +62,7 @@ Produtores de conteúdo audiovisual independente frequentemente enfrentam barrei
 
 ### **Objetivo da Plataforma: Conexão e Crescimento Colaborativo**
 
-O objetivo central da plataforma é estabelecer um ecossistema digital que una esses criadores de conteúdo. O sistema foi projetado para ser um ponto de encontro onde os produtores possam exibir seus trabalhos, receber avaliações do público, compartilhar opiniões<!--compartilhar por meio de comentários --> e formar uma comunidade colaborativa e engajada, que se apoia mutuamente.
+O objetivo central da plataforma é estabelecer um ecossistema digital que una esses criadores de conteúdo. O sistema foi projetado para ser um ponto de encontro onde os produtores possam exibir seus trabalhos, receber avaliações do público, compartilhar opiniões e formar uma comunidade colaborativa e engajada, que se apoia mutuamente.
 
 ### **Proposta de Valor: Feedback como Ferramenta de Evolução**
 
@@ -91,7 +91,7 @@ Para o público, a plataforma reinventa o processo de descoberta de produções 
 
 | Código | Nome | Descrição | Prioridade |
 | :---: | :---: | :---: | :---: |
-| RF-01 | Cadastrar-se | Permitir que visitantes se cadastrem como consumidor ou produtor na plataforma. | Alta |
+| RF-01 | Cadastrar-se | Permitir que visitantes se cadastrem como entusiasta ou produtor na plataforma. | Alta |
 | RF-02 | Autenticar-se | Permitir que usuários façam login e logout no sistema de forma segura. | Alta |
 | RF-03 | Publicar Produção | Permitir que produtores publiquem obras com formulário completo (título, sinopse, ficha técnica, tags, capa, link). | Alta |
 | RF-04 | Visualizar Detalhes de Produção | Permitir que visitantes e usuários acessem informações detalhadas das obras publicadas. | Alta |
