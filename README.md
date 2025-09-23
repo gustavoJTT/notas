@@ -109,11 +109,10 @@ Para o público, a plataforma reinventa o processo de descoberta de produções 
 | RF-16 | Moderar Obras | Permitir que moderadores editem ou removam obras que violem diretrizes da plataforma. | Média |
 | RF-17 | Moderar Contas de Usuários | Permitir que moderadores suspendam ou excluam contas de usuários que violem termos de uso. | Média |
 | RF-18 | Buscar Produtores por Localização | Permitir busca por produtores proximos a localização. | Baixa |
-| RF-19 | Sistema de Notificações | Notificar usuários sobre novas obras de produtores seguidos e interações em seus conteúdos. | Baixa |
-| RF-20 | Denunciar Comentários | Permitir que usuários denunciem comentários inadequados para moderação. | Baixa |
-| RF-21 | Buscar Festivais | Permitir busca por festivais de cinema independente na plataforma. | Baixa |
-| RF-22 | Visualizar Detalhes de Festival | Permitir visualização de informações detalhadas sobre festivais divulgados. | Baixa |
-| RF-23 | Moderar Comentários | Permitir que moderadores removam comentários denunciados após análise. | Baixa |
+| RF-19 | Denunciar Comentários | Permitir que usuários denunciem comentários inadequados para moderação. | Baixa |
+| RF-20 | Buscar Festivais | Permitir busca por festivais de cinema independente na plataforma. | Baixa |
+| RF-21 | Visualizar Detalhes de Festival | Permitir visualização de informações detalhadas sobre festivais divulgados. | Baixa |
+| RF-22 | Moderar Comentários | Permitir que moderadores removam comentários denunciados após análise. | Baixa |
 
 ## 9. Requisitos Não-Funcionais
 
