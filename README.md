@@ -4,16 +4,9 @@
 
 | Data                |  Versão             |          Descrição  |  Autores            |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| 01/05/25 | 1.0 | Versão inicial | Gustavo Tavares, Lucas Gabriel, Isabella Camilli, Jonathan Netto, Clara Lima |
-| 02/05/25 | 2.0 | Atualização do Ambiente dos Usuários | Gustavo Tavares |
-| 18/05/25 | 3.0 | Atualização requisitos moderador e ambiente do usuário | Gustavo Tavares |
-| 22/05/25 | 4.0 | Atualização descrição moderador | Gustavo Tavares |
+| 01/05/25 | 1.0 | Versão inicial | Gustavo Tavares, Pe |
 
 ## 1. Objetivo do projeto
-
-<!-- No mundo do cinema, nem sempre é fácil para novos talentos encontrarem seu espaço. Enquanto os grandes filmes roubam a cena, cineastas emergentes muitas vezes ficam à sombra, sem o reconhecimento que merecem.
-
-O Lume é uma plataforma colaborativa para cineastas independentes, onde produtores podem divulgar obras gratuitamente, receber feedback de suas produções e conectar-se mais facilmente com o público. Diferente de serviços como Mubi (pago) ou Letterboxd (focado em grandes produções), nosso objetivo é ser um espaço democrático para quem está fora do circuito comercial. -->
 
 ### **O Cenário Atual: A Barreira de Visibilidade no Cinema**
 
@@ -47,8 +40,6 @@ Diferentemente de plataformas de streaming por assinatura como o Mubi ou redes s
 
 ## 4. Descrição do ambiente dos usuários
 
-<!-- O acesso a plataforma pelo produtor se dará principalmente por meio de computadores(notebook ou desktop), uma vez que suas necessidades consistirão na publicação e gerenciamento de suas obras. Já os consumidores, terão sua principal plataforma como sendo o mobile, uma vez que suas principais necessidades serão: visualizar produções; comentar e/ou avaliar produções. Todos os visitantes, cadastrados ou não, poderão visualizar informações detalhadas das produções, como resumo, elenco, data de publicação, avaliações e comentários. No entanto, funcionalidades interativas (como comentar, avaliar e publicar obras) serão restritas a usuários cadastrados. Após a publicação, os produtores terão acesso a um painel para monitorar o desempenho de suas obras, incluindo métricas de engajamento e interações do público com suas obras. -->
-
 ### **Ambiente de Acesso e Perfis de Usuário**
 
 O acesso à plataforma será realizado via web, garantindo compatibilidade com computadores (desktop e notebook) e dispositivos móveis. A experiência de uso é otimizada de acordo com o perfil de cada usuário.
@@ -64,8 +55,6 @@ Os consumidores possuem total flexibilidade para acessar a plataforma do disposi
 A visualização de informações detalhadas das produções (resumo, elenco, gênero, etc.) é uma funcionalidade aberta a todos, incluindo visitantes. Contudo, o acesso a recursos interativos ( como comentar, avaliar e favoritar) requer a criação de um cadastro.
 
 ## 5. Principais necessidades dos usuários
-
-<!-- A divulgação de trabalhos audiovisuais independentes é muito limitada para produtores que não são famosos. Nosso objetivo é unir esses criadores em um espaço onde possam avaliar as produções, compartilhar opiniões e formar uma comunidade colaborativa. Através das avaliações e opiniões os produtores poderão aprimorar suas produções e dar vida a novas ideias. -->
 
 ### **Desafio Central: Visibilidade e Feedback para Criadores Independentes**
 
@@ -85,8 +74,6 @@ Por meio das interações e dos feedbacks fornecidos pela comunidade, os produto
 - **Mubi**: Sistema de streaming de filmes por assinatura, contém produções famosas, mas em maior parte contém obras desconhecidas.
 
 ## 7. Visão geral do produto
-
-<!-- O Lume é uma plataforma colaborativa que democratiza o acesso ao cinema independente, criando pontes diretas entre produtores e audiência. Para criadores, oferece um espaço dedicado para divulgar obras, receber feedback qualificado e estabelecer conexões profissionais. Para o público, transforma a descoberta de filmes independentes em uma experiência ativa, onde cada visualização, comentário ou avaliação contribui diretamente para o crescimento do reconhecimento dos produtores independentes. -->
 
 ### **Definição: Um Ecossistema para o Cinema Independente**
 
@@ -121,7 +108,7 @@ Para o público, a plataforma reinventa o processo de descoberta de produções 
 | RF-15 | Favoritar Produções | Permitir que usuários salvem obras em uma lista de favoritos pessoal. | Média |
 | RF-16 | Moderar Obras | Permitir que moderadores editem ou removam obras que violem diretrizes da plataforma. | Média |
 | RF-17 | Moderar Contas de Usuários | Permitir que moderadores suspendam ou excluam contas de usuários que violem termos de uso. | Média |
-| RF-18 | Buscar Produtores por Localização | Permitir busca por produtores próximos baseada na localização do usuário. | Baixa |
+| RF-18 | Buscar Produtores por Localização | Permitir busca por produtores proximos a localização. | Baixa |
 | RF-19 | Sistema de Notificações | Notificar usuários sobre novas obras de produtores seguidos e interações em seus conteúdos. | Baixa |
 | RF-20 | Denunciar Comentários | Permitir que usuários denunciem comentários inadequados para moderação. | Baixa |
 | RF-21 | Buscar Festivais | Permitir busca por festivais de cinema independente na plataforma. | Baixa |
