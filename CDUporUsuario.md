@@ -47,33 +47,25 @@
 
 # CDUs: + ou -
 
-- CDU Visitante:
-    - UC-01: Buscar Produções
-    - UC-02: Buscar Festivais
-    - UC-03: Buscar Produtores
-    - UC-04: Visualizar Detalhes de Produção
-    - UC-05: Visualizar Detalhes do festival
-    - UC-06: Visualizar Perfil de Produtor
-
-- CDU Consumidor:
-    - UC-07: Cadastrar-se na Plataforma
-    - UC-08: Fazer Login/Logout
-    - UC-09: Comentar Produção
-    - UC-10: Avaliar Produção
-    - UC-11: Curtir Comentário
-    - UC-12: Seguir Produtor
-    - UC-13: Favoritar Produção
-    - UC-14: Gerenciar Perfil Pessoal
-
-- CDU Produtor:
-    - UC-15: Publicar Nova Produção
-    - UC-16: Editar Produção Própria
-    - UC-17: Excluir Produção Própria
-    - UC-18: Visualizar Métricas da Produção
-    - UC-19: Cadastrar festival
-
-- CDU Moderador:
-    - UC-20: Aprovar Cadastro de Produtor
-    - UC-21: Moderar Comentários
-    - UC-22: Moderar Produções
-    - UC-23: Gerenciar Contas de Usuários
+- Visualizar index; -> ??perguntar??
+- Visualizar Detalhes de Produção
+- Visualizar Detalhes do festival
+- Visualizar Perfil de Produtor
+- Buscar Produções
+- Buscar Festivais
+- Buscar Produtores
+- Cadastro / Login
+- Avaliar Produção
+- Curtir Comentário
+- Favoritar Produção
+- Gerenciar Perfil Pessoal
+- Publicar Nova Produção
+- Editar Produção Própria
+- Excluir Produção Própria
+- Visualizar Métricas da Produção
+- Cadastrar festival
+- Cadastrar Evento
+- Aprovar Cadastro de Produtor
+- Moderar Comentários
+- Moderar Produções
+- Gerenciar Contas de Usuários
