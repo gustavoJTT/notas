@@ -4,7 +4,7 @@
 
 | Data                |  Versão             |          Descrição  |  Autores            |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| 01/05/25 | 1.0 | Versão inicial | Gustavo Tavares, Pe |
+| 22/09/25 | 1.0 | Revisão | Gustavo Tavares, Clara Lima, Pedro Henrique, Victor Matheus, Isabella Camilli |
 
 ## 1. Objetivo do projeto
 
